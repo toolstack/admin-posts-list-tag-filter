@@ -7,6 +7,9 @@ grunt.initConfig({
 	    files: {
 	      'readme.md': 'readme.txt'
 	    },
+	    options: {
+			screenshot_url: 'assets/{screenshot}.png'
+	    },
 	},
   },
 })
