@@ -5,6 +5,7 @@ Version: 1.0
 Plugin URI: http://toolstack.com/admin-posts-list-tag-filter
 Author: Greg Ross
 Author URI: http://toolstack.com
+Text Domain: admin-posts-list-tag-filter
 Description: Adds a tags filter select box to the posts list (any any other post type that has tag support) in the admin screen.
 
 Compatible with WordPress 3.5+.
