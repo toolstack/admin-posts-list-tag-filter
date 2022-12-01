@@ -33,8 +33,12 @@ No, everything is taken care of automatically.  If you have custom post types th
 
 ## Screenshots ##
 
-1. Post list without tag filter.
-2. Post list with tag filter.
+### 1. Post list without tag filter. ###
+![Post list without tag filter.](assets/screenshot-1.png)
+
+### 2. Post list with tag filter. ###
+![Post list with tag filter.](assets/screenshot-2.png)
+
 
 ## Changelog ##
 
