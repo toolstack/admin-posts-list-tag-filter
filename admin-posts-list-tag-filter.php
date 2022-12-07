@@ -49,7 +49,7 @@ function AdminPostListTagFilter( $post_type, $which ) {
 	foreach( $tags as $tag ) {
 		if( $tag->count > 0 ) {
 			if ( $selected_tag_id === $tag->name ) { $selected = ' selected="selected"'; }  else { $selected = ''; }
-			echo "\t\t" . '<option value="' . $tag->name . '"' . $selected . '>' . $tag->name . '</option>' . PHP_EOL;
+			echo "\t\t" . '<option value="' . esc_attr( $tag->name ) . '"' . $selected . '>' . esc_html( $tag->name ) . '</option>' . PHP_EOL;
 		}
 	}
 
