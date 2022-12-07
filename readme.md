@@ -1,13 +1,13 @@
 # Admin Posts List Tag Filter #
-**Contributors:** [gregross](https://profiles.wordpress.org/gregross/)  
-**Plugin URI:** http://toolstack.com/admin-posts-list-tag-filter  
-**Author URI:** http://toolstack.com  
-**Tags:** admin posts tags  
-**Requires at least:** 3.5  
-**Tested up to:** 6.1  
-**Requires PHP:** 7.0  
-**Stable tag:** V1.0  
-**License:** GPLv2  
+**Contributors:** [gregross](https://profiles.wordpress.org/gregross/)
+**Plugin URI:** http://toolstack.com/admin-posts-list-tag-filter
+**Author URI:** http://toolstack.com
+**Tags:** admin posts tags
+**Requires at least:** 3.5
+**Tested up to:** 6.1
+**Requires PHP:** 7.0
+**Stable tag:** 1.0
+**License:** GPLv2
 
 Admin Posts List Tag Filter - Adds a tags filter select box to the posts list (any any other post type that has tag support) in the admin screen.
 
